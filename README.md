@@ -1,2 +1,11 @@
-# revealline-archive-28
-Immutable RevealLine releases retained for historical play and comparison.
+# RevealLine archive28: proposed v0.61.21 retention
+
+Retain immutable release `391707127` from source `ef1430174dfd35a9df441233988b8737d0401851`, tree `d6fbd2c8f2e7c549eeab602026ee80b3fa3af2d4`, annotated tag `1090d1b8c49742eb6aca12d6cda4ad2ecc7bbba7`. All nine original assets and the exact four metadata bodies are pinned in `input-authority.json`; public main accepted the named First Connection Team earned-picture feature, not a whole phase.
+
+The proposed archive inventory has 701 files / 313,396,221 bytes: 698 release-cohort rows and three root support rows. This new archive has zero prior accepted, preserved or changed paths. It fits the unchanged 800,000,000-byte / 20,000-row budget. Accepted Archive27 retains v0.61.9 and v0.61.20 at 626,793,669 bytes; preserving its non-index rows and adding this cohort would already require at least 940,187,588 bytes before a replacement index. Leave all27 existing archives and their admissions unchanged.
+
+The single explicit fetch is `refs/tags/v0.61.21:refs/tags/v0.61.21`. The unchanged pinned extractor at `a13ab970222498d7c5fa7f62f9fc04fe436979d5` and unchanged prepare/verify helpers retain main-only deployment, no stored credentials, non-cancelling concurrency, 3GiB runner capacity, finite transfer/member guards, original tag/source checks before and after, CRC/hash checks and independent hidden-file verification. No historical game is rebuilt.
+
+This is local preparation only: the proposed repository name has not been checked or allocated in this task. Actual repository, seed/source commit, workflow, deployment and archive acceptance remain unbound. Root must review/adopt the exact candidate, confirm its source and single push workflow, inspect the small original receipt, perform all-row HTTP verification with stable before/after authorities, and observe real archive-native navigation before main admission.
+
+Main621's accepted win/view/Back/Escape/Retry and Plain/Large geometry evidence is a source/public-main baseline, not new archive acceptance. Archive checks must identify actual input and origin, preserve saved-data ownership, use explicit launch/Pause/Resume and return through Release explorer, and record the earned-picture route if tested. Main and archive paths share one origin. Relay Yard reward, physical controls/touch, audio listening, offline/BFCache and parent phases remain open; old619/620 phone focus defects remain historical limitations. Failed attempts and the separate native attempt-label correction remain original evidence.
